@@ -1,7 +1,7 @@
 ## Hi, I'm [Dnyanesh Painjane](https://dnyaneshpainjane.github.io/web/) 😊 
 Web Developer | CA at Coding Ninjas | Skillenza Campus Hustler | Video Editor 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jatiinyadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnyaneshpainjane/)](https://www.linkedin.com/in/dnyaneshpainjane/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dnyanesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnyaneshpainjane/)](https://www.linkedin.com/in/dnyaneshpainjane/)
 [![Twitter Badge](http://img.shields.io/badge/-@jatiin_yadav-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jatiin_yadav)](https://twitter.com/jatiin_yadav) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jatin27yadav@gmail.com)](mailto:jatin27yadav@gmail.com)
 
