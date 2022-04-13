@@ -1,26 +1,15 @@
-## Hi, I'm [Dnyanesh Painjane](https://dnyaneshpainjane.github.io/web/) 😊 
-I'm a Data science and AI Enthusiast. 
-
-👨‍💻 Data science | ML & DL | NLP | Computer Vision
-
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dpainjane@gmail.com)](mailto:dpainjane@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-dnyaneshpainjane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnyaneshpainjane/)](https://www.linkedin.com/in/dnyaneshpainjane/)
-
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dnyaneshpainjane.dnyaneshpainjane">
-
+  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dnyanesh+Painjane....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/dnyaneshpainjane/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  #### 📫 How to reach me:
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:dpainjane@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
 </h5>
 <br>
 <p align="center">
