@@ -30,16 +30,16 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://img.icons8.com/color/344/python--v1.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="https://img.icons8.com/ios-filled/344/git.png"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="https://img.icons8.com/glyph-neue/344/github.png"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="HTML" height="25" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-html-computer-science-flaticons-lineal-color-flat-icons.png"></code>
+  <code><img title="CSS" height="25" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-css-computer-science-flaticons-lineal-color-flat-icons.png"></code>
+  <code><img title="GitHub" height="25" src="https://img.icons8.com/stickers/344/github.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"></code>
+  <code><img title="MySQL" height="25" src="https://img.icons8.com/color/344/mysql-logo.png"></code>
+  <code><img title="MongoDB" height="25" src="https://img.icons8.com/color/344/mongodb.png"></code>
+  <code><img title="Heroku" height="25" src="https://img.icons8.com/color/344/heroku.png"></code>
+  <code><img title="AWS" height="25" src="https://img.icons8.com/color/344/amazon-web-services.png"></code>
+  <code><img title="GoogleCloud" height="25" src="https://img.icons8.com/color/344/google-cloud.png"></code>
+  <code><img title="Flask" height="25" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></code>
 </p>
 <hr>
 
