@@ -16,7 +16,7 @@
   Hi, I'm Dnyanesh Painjane, Data Scientist from INDIA
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Symbiosis University Computer Engineering Department
+  🔬 I'm currently studying for a master's degree in Symbiosis University Information Technology Department
   
   
   
